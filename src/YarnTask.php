@@ -1,6 +1,6 @@
 <?php
 
-namespace Stickee\GrumPHP;
+namespace geraltrivyan\GrumPHP;
 
 use GrumPHP\Runner\TaskResult;
 use GrumPHP\Task\AbstractExternalTask;

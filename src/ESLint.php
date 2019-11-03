@@ -3,7 +3,7 @@
  * @copyright (c) 2006-2017 Stickee Technology Limited
  */
 
-namespace Stickee\GrumPHP;
+namespace geraltrivyan\GrumPHP;
 
 use GrumPHP\Collection\FilesCollection;
 use GrumPHP\Collection\ProcessArgumentsCollection;

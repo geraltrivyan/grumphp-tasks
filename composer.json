@@ -1,5 +1,5 @@
 {
-    "name": "stickee/grumphp-tasks",
+    "name": "geraltrivyan/grumphp-tasks",
     "description": "Tasks for GrumPHP",
     "type": "library",
     "license": "MIT",
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Stickee\\GrumPHP\\": [
+            "geraltrivyan\\GrumPHP\\": [
                 "src"
             ]
         }
